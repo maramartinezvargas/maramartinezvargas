@@ -41,7 +41,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 Lenguajes más usados que encontrarás en mis repositorios
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maracampusfp&langs_count=6&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maracampusfp&langs_count=7&theme=gruvbox)
 
 ## 📚 Últimos proyectos
 | Proyecto | Descripción |
