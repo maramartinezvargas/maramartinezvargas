@@ -42,6 +42,7 @@
 
 ## 📊 Lenguajes más usados que encontrarás en mis repositorios
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maracampusfp&langs_count=6&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maramartinezvargas&langs_count=6&theme=gruvbox)
 
 ## 📚 Últimos proyectos
 | Proyecto | Descripción |
