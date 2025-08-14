@@ -1,6 +1,6 @@
 ## Hey! Soy Mara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-💻 Enfocada en el desarrollo de software | 🌱 Avanzando con DAM y 42Madrid | 🐱 Mis dos michitas supervisan cada commit  
+💻 Software Dev | 🌱 DAM y estudiante en 42Madrid | 🐱 Mis dos michitas supervisan cada commit  
 
 
 ## 🚀 Sobre mí
@@ -8,7 +8,7 @@
 🧰 Cuento con más de 10 años de experiencia en soporte técnico, y varios en desarrollo de aplicaciones y gestión de bases de datos.  
 📜 Titulada en el Grado Superior de Desarrollo de Aplicaciones Informáticas en 2012.  
 🎓 Estudiando actualmente el Grado Superior de Desarrollo de Aplicaciones Multiplataforma (echaba de menos picar código...🫶💻)  
-🌊 Sumergida en la Piscine de 42Madrid de Fundación Telefónica para seguir creciendo como desarrolladora.  
+🌊 Superé la Piscine de 42 Madrid – Fundación Telefónica, un proceso de selección intensivo de 26 días con más de 220 participantes, y fui admitida como estudiante para continuar creciendo como desarrolladora en el cursus de 42.
 🖥️ Apasionada por el backend, las bases de datos y crear soluciones eficientes.  
 🌿 Me interesa aplicar la tecnología a soluciones útiles, con propósito, impacto real y conciencia social.  
 🤝 Creo en el poder de la colaboración y el aprendizaje compartido. Me motiva trabajar en equipo y formar parte de comunidades donde el código también crea vínculos.  
