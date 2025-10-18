@@ -43,12 +43,7 @@
 ## 📊 Lenguajes más usados que encontrarás en mis repositorios
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maramartinezvargas&langs_count=6&theme=gruvbox)
 
-## 📚 Últimos proyectos
-| Proyecto | Descripción |
-|----------|-------------|
-| 🎌**Akihabara Market** | App de consola y GUI en Java para la gestión de productos y clientes. Usa MySQL, Swing y un asistente LLM. (Realizada como práctica propuesta por la empresa tecnológica internacional Seidor). |
-| 📋 **Notium** | App web de gestión de tareas desarrollada con PHP, MySQL, HTML, CSS y Bootstrap. Interfaz clara, funcionalidad CRUD y responsive. |
-| 🐾 **Kahu App** | App de consola en Java para la gestión de adopciones, animales y datos de adoptantes. |
+[![<tamamart>'s 42 stats](https://badge.mediaplus.ma/<Starryblue>/<tamamart>)](https://github.com/oakoudad/badge42)
 
 
 ## 📫 Contacto
