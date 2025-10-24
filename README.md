@@ -5,7 +5,7 @@
 
 ## 🚀 Sobre mí
 
-🧰 Cuento con más de 10 años de experiencia en soporte técnico, y varios en desarrollo de aplicaciones y gestión de bases de datos.  
+🧰 Combino +10 años de experiencia como especialista en soporte técnico, y +2 años en desarrollo de aplicaciones y gestión de bases de datos.  
 📜 Titulada en el Grado Superior de Desarrollo de Aplicaciones Informáticas en 2012.  
 🎓 Estudiando actualmente el Grado Superior de Desarrollo de Aplicaciones Multiplataforma (echaba de menos picar código...🫶💻)  
 🌊 Superé la Piscine de 42 Madrid – Fundación Telefónica, un proceso de selección intensivo de 26 días con más de 220 participantes, y fui admitida como estudiante para continuar creciendo como desarrolladora en el cursus de 42.  
