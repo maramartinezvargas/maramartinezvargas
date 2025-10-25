@@ -25,6 +25,8 @@
 ![PHP](https://img.shields.io/badge/-PHP-C5A3F3?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-A3C4F3?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-D3D3D3?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-C5A3F3?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-A3C4F3?style=for-the-badge&logo=dot-net&logoColor=white)
 <br>
 **Bases de datos**  
 ![SQL](https://img.shields.io/badge/-SQL-A3C4F3?style=for-the-badge&logo=postgresql&logoColor=white)
