@@ -48,9 +48,7 @@
 ## 📫 Contacto
 
 <p align="center">
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamaramartinezvargas)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamara.martinez.vargas@gmail.com)
-![Portfolio soon](https://img.shields.io/badge/Portfolio%20Web-%F0%9F%91%80%20Coming%20soon-9E9E9E?style=for-the-badge)
-
+![Portfolio]([https://img.shields.io/badge/Portfolio%20Web-%F0%9F%91%80%20Coming%20soon-9E9E9E?style=for-the-badge](https://maramartinezvargas.github.io/portfolio/))
 </p>
