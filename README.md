@@ -51,6 +51,13 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maramartinezvargas&layout=compact&theme=dark)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maramartinezvargas&langs_count=6&theme=gruvbox)-->
 
-## 42 stats
-[![tamamart's 42 stats](https://badge.mediaplus.ma/starryblue/tamamart)](https://profile-v3.intra.42.fr/users/tamamart)
+
+<!-- [![tamamart's 42 stats](https://badge.mediaplus.ma/starryblue/tamamart)](https://profile-v3.intra.42.fr/users/tamamart) -->
+## 42 projects
+
+[![42 Libft](https://github.com/maramartinezvargas/42badgeds/raw/main/42-project-badges-main/badges/libftm.png)](https://github.com/maramartinezvargas/libft)
+[![42 ft_printf](https://github.com/maramartinezvargas/42badgeds/raw/main/42-project-badges-main/badges/ft_printfe.png)](https://github.com/maramartinezvargas/ft_printf)
+
+
+
 
