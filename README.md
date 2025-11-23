@@ -18,11 +18,11 @@
 📜 Titulada en el Grado Superior de Desarrollo de Aplicaciones Informáticas en 2012.  
 🎓 Estudio actualmente el Grado Superior de Desarrollo de Aplicaciones Multiplataforma (echaba en falta picar código...🫶💻)  
 🌊 Estudiante de 42 Madrid - Superé la Piscine de 42 Madrid (con Fundación Telefónica), un proceso de selección intensivo de 26 días con más de 220 participantes, y fui admitida como estudiante para continuar creciendo como desarrolladora en el cursus de 42.  
-💡 En 42 estoy reforzando tanto la base low-level (C, memoria, Unix) como nuevas competencias con Python e IA, lo que me da una visión técnica equilibrada y una alta capacidad de adaptación.  
+💡 En 42 estoy reforzando la base low-level (C, memoria, Unix) y ampliando mi perfil con Python e IA, desarrollando proyectos que abarcan automatización, data pipelines y la construcción de agentes inteligentes desde cero.  
 🖥️ Apasionada por el backend, las bases de datos y crear soluciones eficientes.  
 🌿 Me interesa aplicar la tecnología a soluciones útiles, con propósito, impacto real y conciencia social.  
 🤝 Creo en el poder de la colaboración y el aprendizaje compartido. Me motiva trabajar en equipo y formar parte de comunidades donde el código también crea vínculos.  
-
+  
 
 --- 
 
