@@ -54,8 +54,9 @@
 
 <!-- [![tamamart's 42 stats](https://badge.mediaplus.ma/starryblue/tamamart)](https://profile-v3.intra.42.fr/users/tamamart) -->
 ## 42 projects 
-Estos badges representan los proyectos oficiales que he completado durante mi recorrido en 42 Madrid.  
-Cada uno certifica un ejercicio práctico de programación desarrollado bajo la metodología de 42: aprendizaje autónomo, correcciones entre pares y retos diseñados para potenciar la lógica, la precisión y la capacidad de resolver problemas reales.
+Estos badges pertenecen a los proyectos troncales del cursus de 42, desarrollados dentro del itinerario principal como estudiante.
+Cada proyecto supone un salto técnico: construcción de librerías desde cero, manejo avanzado de memoria, precisión en la implementación y un enfoque muy estricto en la calidad del código y el pensamiento algorítmico.
+A partir de diciembre, con el lanzamiento de 42 Next, el common core de 42 se actualizará para integrar nuevos proyectos orientados a Python, inteligencia artificial y desarrollo avanzado, ampliando el enfoque clásico del cursus hacia competencias más actuales en el sector tech.
 
 [![42 Libft](https://github.com/maramartinezvargas/42badgeds/raw/main/42-project-badges-main/badges/libftm.png)](https://github.com/maramartinezvargas/libft)
 [![42 ft_printf](https://github.com/maramartinezvargas/42badgeds/raw/main/42-project-badges-main/badges/ft_printfe.png)](https://github.com/maramartinezvargas/ft_printf)
@@ -63,8 +64,8 @@ Cada uno certifica un ejercicio práctico de programación desarrollado bajo la 
 ## Otros badgeds
 ### 🐍 Discovery Piscine Python — 42 Madrid
 **Insignia oficial de la Discovery Piscine Python de 42 Madrid:**  
-Esta acreditación certifica mi participación y superación de la Discovery Piscine Python.  
-Durante cinco días de inmersión intensiva pude trabajar con uno de los lenguajes más utilizados del mundo, aplicando directamente la metodología y pedagogía de 42: aprendizaje entre pares, práctica constante y resolución de retos reales. Una experiencia corta, pero muy potente, para afianzar bases y ganar soltura con Python.
+Esta acreditación refleja mi participación en la Piscine Discovery Python de septiembre de 2025, una formación intensiva de cinco días centrada en dominar las bases del lenguaje y trabajar de forma autónoma desde el primer día.
+La experiencia retoma la esencia de la metodología 42 —aprendizaje entre pares, práctica continua y retos cortos pero directos— y sirve como una vía rápida para reforzar fundamentos y ganar soltura real con Python.
 
 <a href="https://badges.parchment.eu/public/assertions/4cwyVNfLST29q6DahTqvkQ" target="_blank">
   <img src="https://media.eu.badgr.com/uploads/badges/assertion-4cwyVNfLST29q6DahTqvkQ.png?versionId=mwQ5iupimM6KvUd.Ec91toK0JJWKYO1l" alt="Discovery Piscine Python Badge" width="150"/>
