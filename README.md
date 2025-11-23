@@ -3,9 +3,11 @@
 💻 Software Dev | 🌱 Estudiante en 42Madrid y DAM | 🐱 Mis dos michitas supervisan cada commit  
 
 <p align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-A3C4F3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamaramartinezvargas)
 [![Email](https://img.shields.io/badge/-Email-F4A3A3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamara.martinez.vargas@gmail.com)
 [![Portfolio Web](https://img.shields.io/badge/-Portfolio%20Web-C5A3F3?style=for-the-badge&logo=code&logoColor=white)](https://maramartinezvargas.github.io/portfolio/)
+
 </p>
 
 ---
