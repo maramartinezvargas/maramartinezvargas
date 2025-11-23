@@ -53,11 +53,23 @@
 
 
 <!-- [![tamamart's 42 stats](https://badge.mediaplus.ma/starryblue/tamamart)](https://profile-v3.intra.42.fr/users/tamamart) -->
-## 42 projects
+## 42 projects 
+Estos badges representan los proyectos oficiales que he completado durante mi recorrido en 42 Madrid.  
+Cada uno certifica un ejercicio práctico de programación desarrollado bajo la metodología de 42: aprendizaje autónomo, correcciones entre pares y retos diseñados para potenciar la lógica, la precisión y la capacidad de resolver problemas reales.
 
 [![42 Libft](https://github.com/maramartinezvargas/42badgeds/raw/main/42-project-badges-main/badges/libftm.png)](https://github.com/maramartinezvargas/libft)
 [![42 ft_printf](https://github.com/maramartinezvargas/42badgeds/raw/main/42-project-badges-main/badges/ft_printfe.png)](https://github.com/maramartinezvargas/ft_printf)
 
+## Otros badgeds
+### 🐍 Discovery Piscine Python — 42 Madrid
+**Insignia oficial de la Discovery Piscine Python de 42 Madrid:**  
+Esta acreditación certifica mi participación y superación de la Discovery Piscine Python.  
+Durante cinco días de inmersión intensiva pude trabajar con uno de los lenguajes más utilizados del mundo, aplicando directamente la metodología y pedagogía de 42: aprendizaje entre pares, práctica constante y resolución de retos reales. Una experiencia corta, pero muy potente, para afianzar bases y ganar soltura con Python.
 
+<a href="https://badges.parchment.eu/public/assertions/4cwyVNfLST29q6DahTqvkQ" target="_blank">
+  <img src="https://media.eu.badgr.com/uploads/badges/assertion-4cwyVNfLST29q6DahTqvkQ.png?versionId=mwQ5iupimM6KvUd.Ec91toK0JJWKYO1l" alt="Discovery Piscine Python Badge" width="150"/>
+</a>
+
+---
 
 
