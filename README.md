@@ -62,15 +62,13 @@ A partir de diciembre, con el lanzamiento de 42 Next, el common core de 42 se ac
 [![42 ft_printf](https://github.com/maramartinezvargas/42badgeds/raw/main/42-project-badges-main/badges/ft_printfe.png)](https://github.com/maramartinezvargas/ft_printf)
 
 ## Otros badgeds
+
 ### 🐍 Discovery Piscine Python — 42 Madrid
-**Insignia oficial de la Discovery Piscine Python de 42 Madrid:**  
+
+**Insignia oficial de la Discovery Piscine Python de 42 Madrid:**
 Esta acreditación refleja mi participación en la Piscine Discovery Python de septiembre de 2025, una formación intensiva de cinco días centrada en dominar las bases del lenguaje y trabajar de forma autónoma desde el primer día.
-La experiencia retoma la esencia de la metodología 42 —aprendizaje entre pares, práctica continua y retos cortos pero directos— y sirve como una vía rápida para reforzar fundamentos y ganar soltura real con Python.
+La experiencia retoma la esencia de la metodología 42 — aprendizaje entre pares, práctica continua y retos cortos pero directos — y sirve como una vía rápida para reforzar fundamentos y ganar soltura real con Python.
 
-<a href="https://badges.parchment.eu/public/assertions/4cwyVNfLST29q6DahTqvkQ" target="_blank">
-  <img src="https://media.eu.badgr.com/uploads/badges/assertion-4cwyVNfLST29q6DahTqvkQ.png?versionId=mwQ5iupimM6KvUd.Ec91toK0JJWKYO1l" alt="Discovery Piscine Python Badge" width="150"/>
-</a>
+<a href="https://badges.parchment.eu/public/assertions/4cwyVNfLST29q6DahTqvkQ" target="_blank"> <img src="https://media.eu.badgr.com/uploads/badges/assertion-4cwyVNfLST29q6DahTqvkQ.png?versionId=mwQ5iupimM6KvUd.Ec91toK0JJWKYO1l" alt="Discovery Piscine Python Badge" width="150"/> </a>
 
----
-
-
+[Repositorio Discovery Piscine Python](https://github.com/maramartinezvargas/Discovery_Piscine_Python) 
