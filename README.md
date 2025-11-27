@@ -74,7 +74,7 @@ A partir de diciembre, con el lanzamiento de 42 Next, el common core de 42 se ac
 ### 🐍 Discovery Piscine Python — 42 Madrid
 
 **Insignia oficial de la Discovery Piscine Python de 42 Madrid | Fundación Telefónica:**
-Esta acreditación refleja mi participación en la Piscine Discovery Python de septiembre de 2025, una formación intensiva una semana centrada en dominar las bases del lenguaje y trabajar de forma autónoma desde el primer día.
+Esta acreditación refleja mi participación en la Piscine Discovery Python de septiembre de 2025, una formación intensiva de una semana centrada en dominar las bases del lenguaje y trabajar de forma autónoma desde el primer día.
 La experiencia retoma la esencia de la metodología 42 — aprendizaje entre pares, práctica continua y retos cortos pero directos — y sirve como una vía rápida para reforzar fundamentos y ganar soltura real con Python.
 
 <a href="https://badges.parchment.eu/public/assertions/4cwyVNfLST29q6DahTqvkQ" target="_blank"> <img src="https://media.eu.badgr.com/uploads/badges/assertion-4cwyVNfLST29q6DahTqvkQ.png?versionId=mwQ5iupimM6KvUd.Ec91toK0JJWKYO1l" alt="Discovery Piscine Python Badge" width="150"/> </a>
