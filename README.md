@@ -17,7 +17,7 @@
 🧰 Combino +10 años de experiencia como especialista en soporte técnico, y +2 años en desarrollo de aplicaciones y gestión de BBDD.  
 📜 Titulada en el Grado Superior de Desarrollo de Aplicaciones Informáticas en 2012.  
 🎓 Estudio actualmente el Grado Superior de Desarrollo de Aplicaciones Multiplataforma (echaba en falta picar código...🫶💻)  
-🌊 Estudiante de 42 Madrid - Superé la Piscine de 42 Madrid (con Fundación Telefónica), un proceso de selección intensivo de 26 días con más de 220 participantes, y fui admitida como estudiante para continuar creciendo como desarrolladora en el cursus de 42.  
+🌊 Estudiante de 42 Madrid - Superé la Piscine de 42 Madrid (con Fundación Telefónica) en julio de 2025, un proceso de selección intensivo de 26 días con 300+ participantes, y fui admitida como estudiante para continuar creciendo como desarrolladora en el cursus de 42.  
 💡 En 42 estoy reforzando la base low-level (C, memoria, Unix) y ampliando mi perfil con Python e IA, a través de proyectos que abarcan automatización, data pipelines y la construcción de agentes inteligentes desde cero.  
 🖥️ Apasionada por el backend, las bases de datos y crear soluciones eficientes.  
 🌿 Me interesa aplicar la tecnología a soluciones útiles, con propósito, impacto real y conciencia social.  
