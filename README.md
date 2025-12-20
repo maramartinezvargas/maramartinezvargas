@@ -80,3 +80,7 @@ La experiencia retoma la esencia de la metodología 42 — aprendizaje entre par
 <a href="https://badges.parchment.eu/public/assertions/4cwyVNfLST29q6DahTqvkQ" target="_blank"> <img src="https://media.eu.badgr.com/uploads/badges/assertion-4cwyVNfLST29q6DahTqvkQ.png?versionId=mwQ5iupimM6KvUd.Ec91toK0JJWKYO1l" alt="Discovery Piscine Python Badge" width="150"/> </a>
 
 [Repositorio Discovery Piscine Python](https://github.com/maramartinezvargas/Discovery_Piscine_Python) 
+
+## 42 Stats
+
+[![tamamart's 42 stats](https://badge.mediaplus.ma/starryblue/tamamart)](https://github.com/oakoudad/badge42)
