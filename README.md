@@ -83,4 +83,4 @@ La experiencia retoma la esencia de la metodología 42 — aprendizaje entre par
 
 ## 42 Stats
 
-[![tamamart's 42 stats](https://badge.mediaplus.ma/starryblue/tamamart)](https://github.com/oakoudad/badge42)
+[![tamamart's 42 stats](https://badge.mediaplus.ma/starryblue/tamamart)]([https://profile.intra.42.fr/users/tamamart])
