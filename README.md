@@ -68,6 +68,8 @@ A partir de diciembre, con el lanzamiento de 42 Next, el common core de 42 se ac
 [![42 Libft](https://github.com/maramartinezvargas/42badgeds/raw/main/42-project-badges-main/badges/libftm.png)](https://github.com/maramartinezvargas/libft)
 [![42 ft_printf](https://github.com/maramartinezvargas/42badgeds/raw/main/42-project-badges-main/badges/ft_printfe.png)](https://github.com/maramartinezvargas/ft_printf)
 [![42 Born2BeRoot](https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/born2berootm.png)](https://github.com/maramartinezvargas/Born2BeRoot)
+[![42 Get_Next_Line](https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/get_next_linem.png)](https://github.com/maramartinezvargas/Get_Next_Line)
+
 
 ## Otros badgeds
 
