@@ -82,5 +82,5 @@ La experiencia retoma la esencia de la metodología 42 — aprendizaje entre par
 [Repositorio Discovery Piscine Python](https://github.com/maramartinezvargas/Discovery_Piscine_Python) 
 
 ## 42 Stats
+[![tamamart's 42 stats](https://badge.mediaplus.ma/greenbinary/tamamart)](https://profile.intra.42.fr/users/tamamart)
 
-[![tamamart's 42 stats](https://badge.mediaplus.ma/starryblue/tamamart)]([https://profile.intra.42.fr/users/tamamart])
