@@ -55,7 +55,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-D3D3D3?style=for-the-badge&logo=github&logoColor=white)
 
 ## Lenguajes más usados que encontrarás en mis repositorios
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maramartinezvargas&langs_count=10)]( https://github.com/maramartinezvargas/github-readme-stats )
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maramartinezvargas&langs_count=6)]( https://github.com/maramartinezvargas/github-readme-stats ) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maramartinezvargas&show_icons=true&locale=en&layout=compact&langs_count=10)](https://github.com/maramartinezvargas)
+
 
 <!-- [![tamamart's 42 stats](https://badge.mediaplus.ma/starryblue/tamamart)](https://profile-v3.intra.42.fr/users/tamamart) -->
 ## 42 projects 
