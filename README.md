@@ -15,9 +15,9 @@ Mis dos michitas supervisan cada commit 🐱🐱
 
 ## Ahora mismo
 
-- 🏢 **Salesforce Developer** en prácticas FCT @ [Seidor](https://www.seidor.com) *(desde marzo 2026)*
+- 🏢 **Salesforce Developer** en prácticas, en [Seidor](https://www.seidor.com) *(desde marzo 2026)*
 - 🎓 Último año de **DAM** + cursus de **42 Madrid** en paralelo
-- 🛠️ Desarrollando mi **TFG**: plataforma unificada de contenido audiovisual — una sola app para descubrir, explorar y hacer seguimiento de todo lo disponible en streaming y cine, con listas personalizadas. Java + Spring Boot + API TMDB + MySQL
+- 🛠️ Desarrollando mi **TFG**: **MovieVerse**, plataforma unificada para descubrir contenido audiovisual — descubre, explora y lleva el seguimiento de todo lo disponible en streaming y cine desde un único sitio. Listas personalizadas, reseñas, gestión de usuarios por roles y panel de administración y moderación. Java + Spring Boot + API TMDB + MySQL · Desplegada en VPS con Ubuntu 22.04
 - 📐 Preparando el **exam rank 02** de 42 y avanzando en proyectos Python del cursus
 
 ---
