@@ -16,9 +16,9 @@ Mis dos michitas supervisan cada commit 🐱🐱
 ## Ahora mismo
 
 - 🏢 **Salesforce Developer** en prácticas, en [Seidor](https://www.seidor.com) *(desde marzo 2026)*
-- Más de una década en el sector Tech: 10+ años como Especialista en Soporte Técnico y 2 años en Desarrollo de Software en Altran (Capgemini). 
-- 🎓 Volviendo a estudiar para reenfocar mi carrera laboral al desarrollo. Último año del Grado Superior **DAM** + estudiante cursus de **42 Madrid** en paralelo.
-- 🛠️ Desarrollando mi **TFG**: **MovieVerse**, plataforma unificada para descubrir contenido audiovisual — descubre, explora y lleva el seguimiento de todo lo disponible en streaming y cine desde un único sitio. Listas personalizadas, reseñas, gestión de usuarios por roles y panel de administración y moderación. **Java + Spring Boot + API TMDB + MySQL** · Desplegada en un **VPS Server** con **Ubuntu 22.04**.
+- Más de una década en el sector Tech: 10+ años como Especialista en Soporte Técnico y 2 en Desarrollo de Software en Altran (Capgemini) 
+- 🎓 Volviendo a estudiar para reenfocar mi carrera laboral al desarrollo. Último año del Grado Superior **DAM** + estudiante cursus de **42 Madrid** en paralelo
+- 🛠️ Desarrollando mi **TFG**: **MovieVerse**, plataforma unificada para descubrir contenido audiovisual — descubre, explora y lleva el seguimiento de todo lo disponible en streaming y cine desde un único sitio. Listas personalizadas, reseñas, gestión de usuarios por roles y panel de administración y moderación. **Java + Spring Boot + API TMDB + MySQL** · Desplegada en un **VPS Server** con **Ubuntu 22.04**
 - 📐 Avanzando en proyectos Python del cursus de 42
 
 ---
