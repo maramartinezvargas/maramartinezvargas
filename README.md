@@ -109,9 +109,9 @@ La experiencia retoma la esencia de la metodología 42 — aprendizaje entre par
 
 ---
  
-**Apex Callouts Superbadge — Salesforce Trailhead**
-Las Superbadges de Trailhead no son módulos guiados: son evaluaciones técnicas donde hay que resolver requisitos de negocio sin guía: sin pasos, sin pistas... Esta Superbadge en concreto acredita integración de servicios externos desde Apex — callouts REST y SOAP, generación de clases proxy desde WSDL y testing con mocks.
+**Superbadges & Badges en Trailhead by Salesforce**
+Trailhead es la plataforma de aprendizaje oficial de Salesforce, donde sigo progresando dentro del ecosistema y adquiriendo conocimientos que aplico en mi día a día como Salesforce Developer. Aquí puedes ver mi perfil con todas las insignias y superinsignias que voy completando.
 
-<a href="https://trailhead.salesforce.com/es/content/learn/superbadges/superbadge-apex-callouts-sbu" target="_blank">
-  <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge-apex-callouts-sbu/1a248bbf76619ece720795646fe6a0af_badge.png" alt="Apex Callouts Superbadge" width="130"/>
+<a href="https://www.salesforce.com/trailblazer/profile" target="_blank">
+  <img src="https://availability.salesforce.com/wp-content/uploads/2023/10/PR-circle-magnified-3D-astro-006-2204x2164-1.png" alt="Trailhead Profile" width="130"/>
 </a>
