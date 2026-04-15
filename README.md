@@ -13,7 +13,7 @@ Mis dos michitas supervisan cada commit 🐱🐱
 
 ---
 
-## Ahora mismo
+## Sobre mí
 
 - 🏢 **Salesforce Developer** en prácticas, en [Seidor](https://www.seidor.com) *(desde marzo 2026)*
 - Más de una década en el sector Tech: 10+ años como Especialista en Soporte Técnico y 2 en Desarrollo de Software en Altran (Capgemini) 
@@ -64,14 +64,6 @@ Mis dos michitas supervisan cada commit 🐱🐱
 
 ---
 
-## Sobre mí
-
-+10 años en soporte técnico especializado · +2 años en desarrollo y BBDD (Capgemini)  
-Me apasiona el backend, los datos y la IA aplicada a cosas con propósito real.  
-Aprendo rápido, trabajo de forma autónoma y me gusta entender el *por qué* detrás de las cosas, no solo el cómo.
-
----
-
 ## Lenguajes en mis repos
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maramartinezvargas&show_icons=true&locale=en&layout=compact&langs_count=10)](https://github.com/maramartinezvargas)
@@ -93,6 +85,13 @@ A partir de diciembre, con el lanzamiento de 42 Next, el common core de 42 se ac
 [![tamamart's 42 stats](https://badge.mediaplus.ma/starryblue/tamamart)](https://profile.intra.42.fr/users/tamamart)
 
 ---
+ 
+**Superbadges & Badges en Trailhead by Salesforce**
+Trailhead es la plataforma de aprendizaje oficial de Salesforce, donde sigo progresando dentro del ecosistema y adquiriendo conocimientos que aplico en mi día a día como Salesforce Developer. Aquí puedes ver mi perfil con todas las insignias y superinsignias que voy completando.
+
+<a href="https://www.salesforce.com/trailblazer/profile" target="_blank">
+  <img src="https://availability.salesforce.com/wp-content/uploads/2023/10/PR-circle-magnified-3D-astro-006-2204x2164-1.png" alt="Trailhead Profile" width="130"/>
+</a>
 
 ## Otros badges
 
@@ -106,12 +105,3 @@ La experiencia retoma la esencia de la metodología 42 — aprendizaje entre par
 </a>
 
 [→ Repositorio Discovery Piscine Python](https://github.com/maramartinezvargas/Discovery_Piscine_Python)
-
----
- 
-**Superbadges & Badges en Trailhead by Salesforce**
-Trailhead es la plataforma de aprendizaje oficial de Salesforce, donde sigo progresando dentro del ecosistema y adquiriendo conocimientos que aplico en mi día a día como Salesforce Developer. Aquí puedes ver mi perfil con todas las insignias y superinsignias que voy completando.
-
-<a href="https://www.salesforce.com/trailblazer/profile" target="_blank">
-  <img src="https://availability.salesforce.com/wp-content/uploads/2023/10/PR-circle-magnified-3D-astro-006-2204x2164-1.png" alt="Trailhead Profile" width="130"/>
-</a>
