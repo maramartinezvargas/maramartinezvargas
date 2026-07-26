@@ -1,6 +1,6 @@
 ## Hey, soy Mara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
 
-**Software Developer** · Backend & Databases · 42 Madrid · DAM  
+**Software Developer** · Backend & Databases · 42 Madrid student · DAM  
 Mis dos michitas supervisan cada commit 🐱🐱
 
 <p align="center">
@@ -16,9 +16,9 @@ Mis dos michitas supervisan cada commit 🐱🐱
 ## Sobre mí
 
 - 🏢 **Salesforce Consultant & Developer** en [Seidor](https://www.seidor.com)
-- Más de una década en el sector Tech: 10+ años como Especialista en Soporte Técnico y 2+ en Desarrollo de Software en Altran (Capgemini) 
+- Más de una década en el sector Tech: 10+ años como Especialista en Soporte Técnico, 2+ en Desarrollo de Software en Altran (Capgemini) y actualmente sumergida en el ecosistema de Salesforce, en Seidor.
 - 🎓 Decidí retomar el desarrollo, lo que más me apasiona de la informática, de forma intencionada: Titulada en Grado Superior **DAM** + en paralelo soy estudiante **42 Madrid Fundación Telefónica**, un programa de ingeniería de software con una de las metodologías más innovadoras del mundo.
-- 📐 Avanzando en proyectos Python e IA y Machine Learning del cursus de 42
+- 📐 Avanzando en proyectos Python e IA y Machine Learning del cursus de 42 Madrid Fundación Telefónica.
 - 🛠️ Desarrollé mi **TFG**: **MovieVerse**, plataforma unificada para descubrir contenido audiovisual: descubre, explora y lleva el seguimiento de todo lo disponible en streaming y cine desde un único sitio. Listas personalizadas, reseñas, gestión de usuarios por roles y panel de administración y moderación. **Java + Spring Boot + API TMDB + MySQL** · Desplegada en un **VPS Server** con **Ubuntu**
 
 
