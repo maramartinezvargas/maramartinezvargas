@@ -82,6 +82,8 @@ A partir de diciembre, con el lanzamiento de 42 Next, el common core de 42 se ac
 [![42 Born2BeRoot](https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/born2berootm.png)](https://github.com/maramartinezvargas/Born2BeRoot)
 [![42 Get_Next_Line](https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/get_next_linem.png)](https://github.com/maramartinezvargas/Get_Next_Line)
 [![42 Push_swap](https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/push_swape.png)](https://github.com/maramartinezvargas/Push_swap)
+[![42 Python Piscine](https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/PythonPiscine.png?raw=true)](https://github.com/maramartinezvargas/Piscine_Python)
+[![42 A-Maze-Ing](https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/Amazeing_m_scaled.png)](https://github.com/maramartinezvargas/A-Maze-Ing)
 
 [![tamamart's 42 stats](https://badge.mediaplus.ma/starryblue/tamamart)](https://profile.intra.42.fr/users/tamamart)
 
