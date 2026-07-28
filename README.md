@@ -3,11 +3,7 @@
 **Software Developer** · Backend & Databases · 42 Madrid student · DAM  
 Mis dos michitas supervisan cada commit 🐱🐱
 
-<p align="left">
-  <a href="https://linkedin.com/in/tamaramartinezvargas"><img src="https://img.shields.io/badge/-LinkedIn-A3C4F3?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tamara.martinez.vargas@gmail.com"><img src="https://img.shields.io/badge/-Email-F4A3A3?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://maramartinezvargas.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-C5A3F3?style=for-the-badge&logo=code&logoColor=white" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-A3C4F3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamaramartinezvargas) [![Email](https://img.shields.io/badge/-Email-F4A3A3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamara.martinez.vargas@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-C5A3F3?style=for-the-badge&logo=code&logoColor=white)](https://maramartinezvargas.github.io/portfolio/)
 
 ---
 
@@ -23,54 +19,23 @@ Mis dos michitas supervisan cada commit 🐱🐱
 
 ## Stack
 
-**Lenguajes**
-<p>
-  <img src="https://img.shields.io/badge/-Java-A3C4F3?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-A3C4F3?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-D3D3D3?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-C5A3F3?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-C5A3F3?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-FFF3B0?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+**Lenguajes**  
+![Java](https://img.shields.io/badge/-Java-A3C4F3?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-A3C4F3?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-D3D3D3?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-C5A3F3?style=for-the-badge&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-C5A3F3?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-FFF3B0?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Backend & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/-Spring%20Boot-B7E4C7?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ASP.NET-A3C4F3?style=for-the-badge&logo=dot-net&logoColor=white" />
-</p>
+**Backend & Frameworks**  
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-B7E4C7?style=for-the-badge&logo=springboot&logoColor=white) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-A3C4F3?style=for-the-badge&logo=dot-net&logoColor=white)
 
-**Salesforce**
-<p>
-  <img src="https://img.shields.io/badge/-Salesforce-A3C4F3?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Apex-B7E4C7?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SOQL-A3C4F3?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SOSL-A3C4F3?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flow%20Builder-C5A3F3?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Lightning%20Web%20Components-F4A3A3?style=for-the-badge&logo=salesforce&logoColor=white" />
-</p>
+**Salesforce**  
+![Salesforce](https://img.shields.io/badge/-Salesforce-A3C4F3?style=for-the-badge&logo=salesforce&logoColor=white) ![Apex](https://img.shields.io/badge/-Apex-B7E4C7?style=for-the-badge&logo=salesforce&logoColor=white) ![SOQL](https://img.shields.io/badge/-SOQL-A3C4F3?style=for-the-badge&logo=salesforce&logoColor=white) ![SOSL](https://img.shields.io/badge/-SOSL-A3C4F3?style=for-the-badge&logo=salesforce&logoColor=white) ![Flow Builder](https://img.shields.io/badge/-Flow%20Builder-C5A3F3?style=for-the-badge&logo=salesforce&logoColor=white) ![LWC](https://img.shields.io/badge/-Lightning%20Web%20Components-F4A3A3?style=for-the-badge&logo=salesforce&logoColor=white)
 
-**Bases de datos**
-<p>
-  <img src="https://img.shields.io/badge/-MySQL-A3C4F3?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-A3C4F3?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-B7E4C7?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Oracle-F4A3A3?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL%20Server-F4A3A3?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQLite-A3C4F3?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+**Bases de datos**  
+![MySQL](https://img.shields.io/badge/-MySQL-A3C4F3?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-A3C4F3?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-B7E4C7?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F4A3A3?style=for-the-badge&logo=oracle&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-F4A3A3?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-A3C4F3?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/-HTML5-FFCCAA?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-A3C4F3?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bootstrap-C5A3F3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+**Frontend**  
+![HTML5](https://img.shields.io/badge/-HTML5-FFCCAA?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-A3C4F3?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-C5A3F3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Herramientas**
-<p>
-  <img src="https://img.shields.io/badge/-Git-A3C4F3?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-D3D3D3?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+**Herramientas**  
+![Git](https://img.shields.io/badge/-Git-A3C4F3?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-D3D3D3?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -86,26 +51,17 @@ Estos badges pertenecen a los proyectos troncales del cursus de 42, desarrollado
 Cada proyecto supone un salto técnico: construcción de librerías desde cero, manejo avanzado de memoria, precisión en la implementación y un enfoque muy estricto en la calidad del código y el pensamiento algorítmico.
 A partir de diciembre, con el lanzamiento de 42 Next, el common core de 42 se actualizará para integrar nuevos proyectos orientados a Python, inteligencia artificial y desarrollo avanzado, ampliando el enfoque clásico del cursus hacia competencias más actuales en el sector tech.
 
-<p>
-<a href="https://github.com/maramartinezvargas/libft"><img src="https://github.com/maramartinezvargas/42badgeds/raw/main/42-project-badges-main/badges/libftm.png" width="100" /></a>
-<a href="https://github.com/maramartinezvargas/ft_printf"><img src="https://github.com/maramartinezvargas/42badgeds/raw/main/42-project-badges-main/badges/ft_printfe.png" width="100" /></a>
-<a href="https://github.com/maramartinezvargas/Born2BeRoot"><img src="https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/born2berootm.png" width="100" /></a>
-<a href="https://github.com/maramartinezvargas/Get_Next_Line"><img src="https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/get_next_linem.png" width="100" /></a>
-<a href="https://github.com/maramartinezvargas/Push_swap"><img src="https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/push_swape.png" width="100" /></a>
-<a href="https://github.com/maramartinezvargas/Piscine_Python"><img src="https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/PythonPiscine.png?raw=true" width="100" /></a>
-<a href="https://github.com/maramartinezvargas/A-Maze-Ing"><img src="https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/Amazeing_m_scaled.png" width="100" /></a>
-</p>
+[![42 Libft](https://github.com/maramartinezvargas/42badgeds/raw/main/42-project-badges-main/badges/libftm.png)](https://github.com/maramartinezvargas/libft) [![42 ft_printf](https://github.com/maramartinezvargas/42badgeds/raw/main/42-project-badges-main/badges/ft_printfe.png)](https://github.com/maramartinezvargas/ft_printf) [![42 Born2BeRoot](https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/born2berootm.png)](https://github.com/maramartinezvargas/Born2BeRoot) [![42 Get_Next_Line](https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/get_next_linem.png)](https://github.com/maramartinezvargas/Get_Next_Line) [![42 Push_swap](https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/push_swape.png)](https://github.com/maramartinezvargas/Push_swap) [![42 Python Piscine](https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/PythonPiscine.png?raw=true)](https://github.com/maramartinezvargas/Piscine_Python) [![42 A-Maze-Ing](https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/Amazeing_m_scaled.png)](https://github.com/maramartinezvargas/A-Maze-Ing)
 
 [![tamamart's 42 stats](https://badge.mediaplus.ma/starryblue/tamamart)](https://profile.intra.42.fr/users/tamamart)
 
 ---
+
 ## Salesforce
-**Superbadges & Badges en Trailhead by Salesforce**
+**Superbadges & Badges en Trailhead by Salesforce**  
 Trailhead es la plataforma de aprendizaje oficial de Salesforce, donde sigo progresando dentro del ecosistema y adquiriendo conocimientos que aplico en mi día a día como Salesforce Developer. Aquí puedes ver mi perfil con todas las insignias y superinsignias que voy completando.
 
-<a href="https://www.salesforce.com/trailblazer/profile" target="_blank">
-  <img src="https://availability.salesforce.com/wp-content/uploads/2023/10/PR-circle-magnified-3D-astro-006-2204x2164-1.png" alt="Trailhead Profile" width="130"/>
-</a>
+[![Trailhead Profile](https://availability.salesforce.com/wp-content/uploads/2023/10/PR-circle-magnified-3D-astro-006-2204x2164-1.png)](https://www.salesforce.com/trailblazer/profile)
 
 ## Otros badges
 
@@ -114,8 +70,6 @@ Trailhead es la plataforma de aprendizaje oficial de Salesforce, donde sigo prog
 Esta acreditación refleja mi participación en la Piscine Discovery Python de septiembre de 2025, una formación intensiva de una semana centrada en dominar las bases del lenguaje y trabajar de forma autónoma desde el primer día.
 La experiencia retoma la esencia de la metodología 42 — aprendizaje entre pares, práctica continua y retos cortos pero directos — y sirve como una vía rápida para reforzar fundamentos y ganar soltura real con Python.
 
-<a href="https://badges.parchment.eu/public/assertions/4cwyVNfLST29q6DahTqvkQ?identity__email=tamara.martinez.vargas%40gmail.com" target="_blank">
-  <img src="https://media.eu.badgr.com/uploads/badges/assertion-4cwyVNfLST29q6DahTqvkQ.png?versionId=mwQ5iupimM6KvUd.Ec91toK0JJWKYO1l" alt="Discovery Piscine Python Badge" width="130"/>
-</a>
+[![Discovery Piscine Python Badge](https://media.eu.badgr.com/uploads/badges/assertion-4cwyVNfLST29q6DahTqvkQ.png?versionId=mwQ5iupimM6KvUd.Ec91toK0JJWKYO1l)](https://badges.parchment.eu/public/assertions/4cwyVNfLST29q6DahTqvkQ?identity__email=tamara.martinez.vargas%40gmail.com)
 
 [→ Repositorio Discovery Piscine Python](https://github.com/maramartinezvargas/Discovery_Piscine_Python)
