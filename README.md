@@ -3,12 +3,10 @@
 **Software Developer** · Backend & Databases · 42 Madrid student · DAM  
 Mis dos michitas supervisan cada commit 🐱🐱
 
-<p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-A3C4F3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamaramartinezvargas)
-[![Email](https://img.shields.io/badge/-Email-F4A3A3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamara.martinez.vargas@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-C5A3F3?style=for-the-badge&logo=code&logoColor=white)](https://maramartinezvargas.github.io/portfolio/)
-
+<p align="left">
+  <a href="https://linkedin.com/in/tamaramartinezvargas"><img src="https://img.shields.io/badge/-LinkedIn-A3C4F3?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tamara.martinez.vargas@gmail.com"><img src="https://img.shields.io/badge/-Email-F4A3A3?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://maramartinezvargas.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-C5A3F3?style=for-the-badge&logo=code&logoColor=white" /></a>
 </p>
 
 ---
@@ -89,13 +87,13 @@ Cada proyecto supone un salto técnico: construcción de librerías desde cero, 
 A partir de diciembre, con el lanzamiento de 42 Next, el common core de 42 se actualizará para integrar nuevos proyectos orientados a Python, inteligencia artificial y desarrollo avanzado, ampliando el enfoque clásico del cursus hacia competencias más actuales en el sector tech.
 
 <p>
-  <a href="https://github.com/maramartinezvargas/libft"><img src="https://github.com/maramartinezvargas/42badgeds/raw/main/42-project-badges-main/badges/libftm.png" width="100" /></a>
-  <a href="https://github.com/maramartinezvargas/ft_printf"><img src="https://github.com/maramartinezvargas/42badgeds/raw/main/42-project-badges-main/badges/ft_printfe.png" width="100" /></a>
-  <a href="https://github.com/maramartinezvargas/Born2BeRoot"><img src="https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/born2berootm.png" width="100" /></a>
-  <a href="https://github.com/maramartinezvargas/Get_Next_Line"><img src="https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/get_next_linem.png" width="100" /></a>
-  <a href="https://github.com/maramartinezvargas/Push_swap"><img src="https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/push_swape.png" width="100" /></a>
-  <a href="https://github.com/maramartinezvargas/Piscine_Python"><img src="https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/PythonPiscine.png?raw=true" width="100" /></a>
-  <a href="https://github.com/maramartinezvargas/A-Maze-Ing"><img src="https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/Amazeing_m_scaled.png" width="100" /></a>
+<a href="https://github.com/maramartinezvargas/libft"><img src="https://github.com/maramartinezvargas/42badgeds/raw/main/42-project-badges-main/badges/libftm.png" width="100" /></a>
+<a href="https://github.com/maramartinezvargas/ft_printf"><img src="https://github.com/maramartinezvargas/42badgeds/raw/main/42-project-badges-main/badges/ft_printfe.png" width="100" /></a>
+<a href="https://github.com/maramartinezvargas/Born2BeRoot"><img src="https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/born2berootm.png" width="100" /></a>
+<a href="https://github.com/maramartinezvargas/Get_Next_Line"><img src="https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/get_next_linem.png" width="100" /></a>
+<a href="https://github.com/maramartinezvargas/Push_swap"><img src="https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/push_swape.png" width="100" /></a>
+<a href="https://github.com/maramartinezvargas/Piscine_Python"><img src="https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/PythonPiscine.png?raw=true" width="100" /></a>
+<a href="https://github.com/maramartinezvargas/A-Maze-Ing"><img src="https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/Amazeing_m_scaled.png" width="100" /></a>
 </p>
 
 [![tamamart's 42 stats](https://badge.mediaplus.ma/starryblue/tamamart)](https://profile.intra.42.fr/users/tamamart)
