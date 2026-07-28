@@ -25,23 +25,54 @@ Mis dos michitas supervisan cada commit 🐱🐱
 
 ## Stack
 
-**Lenguajes**  
-![Java](https://img.shields.io/badge/-Java-A3C4F3?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-A3C4F3?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-D3D3D3?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-C5A3F3?style=for-the-badge&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-C5A3F3?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-FFF3B0?style=for-the-badge&logo=javascript&logoColor=black)
+**Lenguajes**
+<p>
+  <img src="https://img.shields.io/badge/-Java-A3C4F3?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-A3C4F3?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-D3D3D3?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-C5A3F3?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-C5A3F3?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-FFF3B0?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-**Backend & Frameworks**  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-B7E4C7?style=for-the-badge&logo=springboot&logoColor=white) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-A3C4F3?style=for-the-badge&logo=dot-net&logoColor=white)
+**Backend & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/-Spring%20Boot-B7E4C7?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ASP.NET-A3C4F3?style=for-the-badge&logo=dot-net&logoColor=white" />
+</p>
 
-**Salesforce**  
-![Salesforce](https://img.shields.io/badge/-Salesforce-A3C4F3?style=for-the-badge&logo=salesforce&logoColor=white) ![Apex](https://img.shields.io/badge/-Apex-B7E4C7?style=for-the-badge&logo=salesforce&logoColor=white) ![SOQL](https://img.shields.io/badge/-SOQL-A3C4F3?style=for-the-badge&logo=salesforce&logoColor=white) ![SOSL](https://img.shields.io/badge/-SOSL-A3C4F3?style=for-the-badge&logo=salesforce&logoColor=white) ![Flow Builder](https://img.shields.io/badge/-Flow%20Builder-C5A3F3?style=for-the-badge&logo=salesforce&logoColor=white) ![LWC](https://img.shields.io/badge/-Lightning%20Web%20Components-F4A3A3?style=for-the-badge&logo=salesforce&logoColor=white)
+**Salesforce**
+<p>
+  <img src="https://img.shields.io/badge/-Salesforce-A3C4F3?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Apex-B7E4C7?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SOQL-A3C4F3?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SOSL-A3C4F3?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flow%20Builder-C5A3F3?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Lightning%20Web%20Components-F4A3A3?style=for-the-badge&logo=salesforce&logoColor=white" />
+</p>
 
-**Bases de datos**  
-![MySQL](https://img.shields.io/badge/-MySQL-A3C4F3?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-A3C4F3?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-B7E4C7?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F4A3A3?style=for-the-badge&logo=oracle&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-F4A3A3?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-A3C4F3?style=for-the-badge&logo=sqlite&logoColor=white)
+**Bases de datos**
+<p>
+  <img src="https://img.shields.io/badge/-MySQL-A3C4F3?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-A3C4F3?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-B7E4C7?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Oracle-F4A3A3?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL%20Server-F4A3A3?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQLite-A3C4F3?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/-HTML5-FFCCAA?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-A3C4F3?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-C5A3F3?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-FFCCAA?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-A3C4F3?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-C5A3F3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-**Herramientas**  
-![Git](https://img.shields.io/badge/-Git-A3C4F3?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-D3D3D3?style=for-the-badge&logo=github&logoColor=white)
+**Herramientas**
+<p>
+  <img src="https://img.shields.io/badge/-Git-A3C4F3?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-D3D3D3?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
