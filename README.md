@@ -21,47 +21,27 @@ Mis dos michitas supervisan cada commit 🐱🐱
 - 📐 Avanzando en proyectos Python e IA y Machine Learning del cursus de 42 Madrid Fundación Telefónica.
 - 🛠️ Desarrollé mi **TFG**: **MovieVerse**, plataforma unificada para descubrir contenido audiovisual: descubre, explora y lleva el seguimiento de todo lo disponible en streaming y cine desde un único sitio. Listas personalizadas, reseñas, gestión de usuarios por roles y panel de administración y moderación. **Java + Spring Boot + API TMDB + MySQL** · Desplegada en un **VPS Server** con **Ubuntu**
 
-
 ---
 
 ## Stack
 
 **Lenguajes**  
-![Java](https://img.shields.io/badge/-Java-A3C4F3?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-A3C4F3?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-D3D3D3?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-C5A3F3?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-C5A3F3?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFF3B0?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-A3C4F3?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-A3C4F3?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-D3D3D3?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-C5A3F3?style=for-the-badge&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-C5A3F3?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-FFF3B0?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Backend & Frameworks**  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-B7E4C7?style=for-the-badge&logo=springboot&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-A3C4F3?style=for-the-badge&logo=dot-net&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-B7E4C7?style=for-the-badge&logo=springboot&logoColor=white) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-A3C4F3?style=for-the-badge&logo=dot-net&logoColor=white)
 
 **Salesforce**  
-![Salesforce](https://img.shields.io/badge/-Salesforce-A3C4F3?style=for-the-badge&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/-Apex-B7E4C7?style=for-the-badge&logo=salesforce&logoColor=white)
-![SOQL](https://img.shields.io/badge/-SOQL-A3C4F3?style=for-the-badge&logo=salesforce&logoColor=white)
-![SOSL](https://img.shields.io/badge/-SOSL-A3C4F3?style=for-the-badge&logo=salesforce&logoColor=white)
-![Flow Builder](https://img.shields.io/badge/-Flow%20Builder-C5A3F3?style=for-the-badge&logo=salesforce&logoColor=white)
-![LWC](https://img.shields.io/badge/-Lightning%20Web%20Components-F4A3A3?style=for-the-badge&logo=salesforce&logoColor=white)
+![Salesforce](https://img.shields.io/badge/-Salesforce-A3C4F3?style=for-the-badge&logo=salesforce&logoColor=white) ![Apex](https://img.shields.io/badge/-Apex-B7E4C7?style=for-the-badge&logo=salesforce&logoColor=white) ![SOQL](https://img.shields.io/badge/-SOQL-A3C4F3?style=for-the-badge&logo=salesforce&logoColor=white) ![SOSL](https://img.shields.io/badge/-SOSL-A3C4F3?style=for-the-badge&logo=salesforce&logoColor=white) ![Flow Builder](https://img.shields.io/badge/-Flow%20Builder-C5A3F3?style=for-the-badge&logo=salesforce&logoColor=white) ![LWC](https://img.shields.io/badge/-Lightning%20Web%20Components-F4A3A3?style=for-the-badge&logo=salesforce&logoColor=white)
 
 **Bases de datos**  
-![MySQL](https://img.shields.io/badge/-MySQL-A3C4F3?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-A3C4F3?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-B7E4C7?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F4A3A3?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-F4A3A3?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-A3C4F3?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-A3C4F3?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-A3C4F3?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-B7E4C7?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F4A3A3?style=for-the-badge&logo=oracle&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-F4A3A3?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-A3C4F3?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Frontend**  
-![HTML5](https://img.shields.io/badge/-HTML5-FFCCAA?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-A3C4F3?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-C5A3F3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-FFCCAA?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-A3C4F3?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-C5A3F3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Herramientas**  
-![Git](https://img.shields.io/badge/-Git-A3C4F3?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-D3D3D3?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-A3C4F3?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-D3D3D3?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -77,13 +57,15 @@ Estos badges pertenecen a los proyectos troncales del cursus de 42, desarrollado
 Cada proyecto supone un salto técnico: construcción de librerías desde cero, manejo avanzado de memoria, precisión en la implementación y un enfoque muy estricto en la calidad del código y el pensamiento algorítmico.
 A partir de diciembre, con el lanzamiento de 42 Next, el common core de 42 se actualizará para integrar nuevos proyectos orientados a Python, inteligencia artificial y desarrollo avanzado, ampliando el enfoque clásico del cursus hacia competencias más actuales en el sector tech.
 
-[![42 Libft](https://github.com/maramartinezvargas/42badgeds/raw/main/42-project-badges-main/badges/libftm.png)](https://github.com/maramartinezvargas/libft)
-[![42 ft_printf](https://github.com/maramartinezvargas/42badgeds/raw/main/42-project-badges-main/badges/ft_printfe.png)](https://github.com/maramartinezvargas/ft_printf)
-[![42 Born2BeRoot](https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/born2berootm.png)](https://github.com/maramartinezvargas/Born2BeRoot)
-[![42 Get_Next_Line](https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/get_next_linem.png)](https://github.com/maramartinezvargas/Get_Next_Line)
-[![42 Push_swap](https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/push_swape.png)](https://github.com/maramartinezvargas/Push_swap)
-[![42 Python Piscine](https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/PythonPiscine.png?raw=true)](https://github.com/maramartinezvargas/Piscine_Python)
-[![42 A-Maze-Ing](https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/Amazeing_m_scaled.png)](https://github.com/maramartinezvargas/A-Maze-Ing)
+<p>
+  <a href="https://github.com/maramartinezvargas/libft"><img src="https://github.com/maramartinezvargas/42badgeds/raw/main/42-project-badges-main/badges/libftm.png" width="100" /></a>
+  <a href="https://github.com/maramartinezvargas/ft_printf"><img src="https://github.com/maramartinezvargas/42badgeds/raw/main/42-project-badges-main/badges/ft_printfe.png" width="100" /></a>
+  <a href="https://github.com/maramartinezvargas/Born2BeRoot"><img src="https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/born2berootm.png" width="100" /></a>
+  <a href="https://github.com/maramartinezvargas/Get_Next_Line"><img src="https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/get_next_linem.png" width="100" /></a>
+  <a href="https://github.com/maramartinezvargas/Push_swap"><img src="https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/push_swape.png" width="100" /></a>
+  <a href="https://github.com/maramartinezvargas/Piscine_Python"><img src="https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/PythonPiscine.png?raw=true" width="100" /></a>
+  <a href="https://github.com/maramartinezvargas/A-Maze-Ing"><img src="https://github.com/maramartinezvargas/42badgeds/blob/main/42-project-badges-main/badges/Amazeing_m_scaled.png" width="100" /></a>
+</p>
 
 [![tamamart's 42 stats](https://badge.mediaplus.ma/starryblue/tamamart)](https://profile.intra.42.fr/users/tamamart)
 
