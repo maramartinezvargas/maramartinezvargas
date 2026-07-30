@@ -11,9 +11,9 @@ Mis dos michitas supervisan cada commit 🐱🐱
 
 - 🏢 **Salesforce Consultant & Developer** en [Seidor](https://www.seidor.com)
 - Más de una década en el sector Tech: 10+ años como Especialista en Soporte Técnico, 2+ en Desarrollo de Software en Altran (Capgemini) y actualmente sumergida en el ecosistema Salesforce, en Seidor.
-- 🎓 Decidí retomar el desarrollo, lo que más me apasiona de la informática, de forma intencionada: Titulada en Grado Superior **DAM** + en paralelo soy estudiante **42 Madrid Fundación Telefónica**, un programa de ingeniería de software con una de las metodologías más innovadoras del mundo.
+- 🎓 Decidí retomar el desarrollo, lo que más me apasiona de la informática, de forma intencionada: Titulada en Grado Superior **DAI** y Grado Superior **DAM**. En paralelo soy estudiante **42 Madrid Fundación Telefónica**, con un programa que profundiza en la ingeniería de software e IA con una de las metodologías más innovadoras del mundo.
 - 📐 Avanzando en proyectos Python e IA y Machine Learning del cursus de 42 Madrid Fundación Telefónica.
-- 🛠️ Desarrollé mi **TFG**: **MovieVerse**, plataforma unificada para descubrir contenido audiovisual: descubre, explora y lleva el seguimiento de todo lo disponible en streaming y cine desde un único sitio. Listas personalizadas, reseñas, gestión de usuarios por roles y panel de administración y moderación. **Java + Spring Boot + API TMDB + MySQL** · Desplegada en un **VPS Server** con **Ubuntu**
+- 🛠️ Desarrollé mi **TFG**: **MovieVerse**, plataforma unificada para descubrir contenido audiovisual: descubre, explora y lleva el seguimiento de todo lo disponible en streaming y cine desde una única plataforma. Listas personalizadas, reseñas, gestión de usuarios por roles y panel de administración y moderación. Stack usado: **Java + Spring Boot + API TMDB + MySQL** · Desplegada en un **VPS Server** con **Ubuntu**
 
 ---
 
@@ -39,7 +39,7 @@ Mis dos michitas supervisan cada commit 🐱🐱
 
 ---
 
-## Lenguajes en mis repos
+## Principales lenguajes en mis repositorios
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maramartinezvargas&layout=compact&langs_count=10&theme=default&hide_border=true)](https://github.com/maramartinezvargas)
 
@@ -67,15 +67,23 @@ A partir de diciembre, con el lanzamiento de 42 Next, el common core de 42 se ac
 **Superbadges & Badges en Trailhead by Salesforce**  
 Trailhead es la plataforma de aprendizaje oficial de Salesforce, donde sigo progresando dentro del ecosistema y adquiriendo conocimientos que aplico en mi día a día como Salesforce Developer. Aquí puedes ver mi perfil con todas las insignias y superinsignias que voy completando.
 
-[![Trailhead Profile](https://availability.salesforce.com/wp-content/uploads/2023/10/PR-circle-magnified-3D-astro-006-2204x2164-1.png)](https://www.salesforce.com/trailblazer/profile)
+<a href="https://www.salesforce.com/trailblazer/fb13mku8517ao25n1s">
+  <img
+    src="https://developer.salesforce.com/resource/images/trailhead/badges/community/trailhead_community_beginner_trail_2019.png"
+    alt="Trailhead Profile"
+    width="150">
+</a>
 
 ## Otros badges
-
 **Discovery Piscine Python — 42 Madrid · Fundación Telefónica** *(sept. 2025)*
 
 Esta acreditación refleja mi participación en la Piscine Discovery Python de septiembre de 2025, una formación intensiva de una semana centrada en dominar las bases del lenguaje y trabajar de forma autónoma desde el primer día.
 La experiencia retoma la esencia de la metodología 42 — aprendizaje entre pares, práctica continua y retos cortos pero directos — y sirve como una vía rápida para reforzar fundamentos y ganar soltura real con Python.
 
-[![Discovery Piscine Python Badge](https://media.eu.badgr.com/uploads/badges/assertion-4cwyVNfLST29q6DahTqvkQ.png?versionId=mwQ5iupimM6KvUd.Ec91toK0JJWKYO1l)](https://badges.parchment.eu/public/assertions/4cwyVNfLST29q6DahTqvkQ?identity__email=tamara.martinez.vargas%40gmail.com)
+<a href="https://badges.parchment.eu/public/assertions/4cwyVNfLST29q6DahTqvkQ?identity__email=tamara.martinez.vargas%40gmail.com">
+  <img src="https://media.eu.badgr.com/uploads/badges/assertion-4cwyVNfLST29q6DahTqvkQ.png?versionId=mwQ5iupimM6KvUd.Ec91toK0JJWKYO1l"
+       alt="Discovery Piscine Python Badge"
+       width="150">
+</a>
 
 [→ Repositorio Discovery Piscine Python](https://github.com/maramartinezvargas/Discovery_Piscine_Python)
